@@ -1,0 +1,13 @@
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\WorkshopPanelV1.exe.config
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\WorkshopPanelV1.exe
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\WorkshopPanelV1.pdb
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\CapaNegocios.exe
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\CapaNegocios.pdb
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\bin\Debug\CapaNegocios.exe.config
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.Properties.Resources.resources
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.csproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\Workshop.19E4B41E.Up2Date
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.exe
+C:\Users\juand\OneDrive\Documentos\WorkshopPanelV1\WorkshopPanelV1\obj\Debug\WorkshopPanelV1.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED4B8B5-DB8B-49CD-B978-40286E87F656}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\juand\\onedrive\\documentos\\workshoppanelv1\\capadatos\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4904AC-A89A-46BD-9FCF-6F90158529D7}|WorkshopPanelV1.csproj|C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A4904AC-A89A-46BD-9FCF-6F90158529D7}|WorkshopPanelV1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4904AC-A89A-46BD-9FCF-6F90158529D7}|WorkshopPanelV1.csproj|C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4904AC-A89A-46BD-9FCF-6F90158529D7}|WorkshopPanelV1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B932D34-8E8E-41A2-9AEB-1D715A6462BA}|..\\CapaNegocios\\CapaNegocios.csproj|c:\\users\\juand\\onedrive\\documentos\\workshoppanelv1\\capanegocios\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\CapaNegocios\\Validation.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocios\\Validation.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\CapaNegocios\\Validation.cs",
+              "RelativeToolTip": "..\\CapaNegocios\\Validation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:04:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:03:46.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\WorkshopPanelV1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:03:42.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\CapaDatos\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Connection.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Documentos\\WorkshopPanelV1\\CapaDatos\\Connection.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:03:16.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
