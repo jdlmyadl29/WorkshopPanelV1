@@ -1,0 +1,9 @@
+[ODBC]
+DRIVER=MySQL ODBC 8.4 Unicode Driver
+UID=root
+USER=root
+SERVER=127.0.0.1
+PORT=3306
+NO_SCHEMA=1
+DB=dbworkshoppanel
+DATABASE=dbworkshoppanel
